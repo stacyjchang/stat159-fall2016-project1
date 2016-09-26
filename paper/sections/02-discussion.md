@@ -12,7 +12,7 @@ make (command)
 make -f
 makefile has set of rules 
 target: dependencies
-<tab> pandoc
+	pandoc
 
 	2 levels of files
 
@@ -25,14 +25,18 @@ target: dependencies
 	make -r
 
 	clean when want to clean and compile again
-Explain what is Git, and its role in this reproducible workflow.
-Explain what is GitHub, and its role in this project.
-Explain what is pandoc, and comment on its usefulness (or advantages).
-Explain what is Markdown.
-What resources you used to get the job done?
-What were the "easy" parts?
-What were the challenging parts?
-What things you were stuck with?
-What was the most time consuming part?
-Did you work with and/or get help from someone else? If yes, in what manner?
-How much time did it take?
+**2. Explain what is Git, and its role in this reproducible workflow.**
+**3. Explain what is GitHub, and its role in this project.**
+**4. Explain what is pandoc, and comment on its usefulness (or advantages).**
+**5. Explain what is Markdown.**
+**6. What resources you used to get the job done?**
+**7. What were the "easy" parts?**
+**8. What were the challenging parts?**
+**9. What things you were stuck with?**
+**10. What was the most time consuming part?*
+**11. Did you work with and/or get help from someone else? If yes, in what manner?**
+**12. How much time did it take?**
+
+
+
+

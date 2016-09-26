@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h1 id="abstract">Abstract</h1>
+<h2 id="section-00"><em>section 00</em></h2>
+<h4 id="fall-2016-stat-159">Fall 2016 Stat 159</h4>
+<p><strong>Abstract:</strong> The first project of the semester, the students are assigned to write a paper on writing a paper. The overarching goal of this project is to teach the students to fully learn how to utilize the useful computing tools we learned in class. Tools such as this markdown file, bash, git, github, Make, pandoc, etc.The paper is divided into four different sections, which is a typical model of research papers: abstract, introduction, discussion and conclusion. This project paper focuses on and explains, in detail, each individual tool that was needed to complete this assignment. Additionally, the paper discusses the pros and cons of the tools featured and the process of completing this project from the author's point of view. Professor Sanchez predrafted the questions that the students are expected to answer through this project paper. After completing the assignment, students will have a better understanding of the tools as well as writing an research paper. #Introduction ##<em>section 01</em> ####Fall 2016 Stat 159</p>
+<p><strong>Introduction:</strong> #Discussion ##<em>section02</em> ####Fall 2016 Stat 159</p>
+<p><strong>1. Explain what is a Makefile and the role it plays in this reproducible workflow.</strong> compiling code and automating scripts allows you to put evertying in one place and compile everything for you reason: dont want to repeat commands type in make and execute once makefile make (command) make -f makefile has set of rules target: dependencies pandoc</p>
+<pre><code>2 levels of files
+
+all: paper.md paper.html
+paper.md: 1.md 2.md
+&lt;tab&gt; cat 1.md 2.md &gt; paper.md
+paper.html : paper.md
+&lt;tab&gt; pandoc
+
+make -r
+
+clean when want to clean and compile again</code></pre>
+<p><strong>2. Explain what is Git, and its role in this reproducible workflow.</strong> <strong>3. Explain what is GitHub, and its role in this project.</strong> <strong>4. Explain what is pandoc, and comment on its usefulness (or advantages).</strong> <strong>5. Explain what is Markdown.</strong> <strong>6. What resources you used to get the job done?</strong> <strong>7. What were the &quot;easy&quot; parts?</strong> <strong>8. What were the challenging parts?</strong> <strong>9. What things you were stuck with?</strong> **10. What was the most time consuming part?* <strong>11. Did you work with and/or get help from someone else? If yes, in what manner?</strong> <strong>12. How much time did it take?</strong></p>
+<h1 id="conclusion">Conclusion</h1>
+<h2 id="section-03"><em>section 03</em></h2>
+<h4 id="fall-2016-stat-159-1">Fall 2016 Stat 159</h4>
+<p><strong>Conclusion:</strong></p>
+</body>
+</html>

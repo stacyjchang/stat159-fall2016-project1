@@ -12,6 +12,6 @@ paper.md: paper/sections/00-abstract.md paper/sections/01-introduction.md paper/
 paper.html: paper.md
 	cd paper; pandoc paper.md -s -o paper.html
 
-#
+#clean all
 clean:
-	rm -f paper.html
+	rm -f all

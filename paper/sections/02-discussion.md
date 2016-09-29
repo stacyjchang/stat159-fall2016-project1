@@ -12,6 +12,7 @@ Git is by far the most used and most importnat open source version control syste
 
 ####GitHub
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/github-logo.png)
+
 GitHub and Git are partners in crime; they work together as the perfect open source version control system medium. As Git is the storage room, GitHub is the shelve in the room that actually stores and display the content. GitHub is the ultimate web-based Git repository hosting service. GitHub is the most common and popular medium that hosts open-source software projects. While Git is a command-line tool, GitHub is the location where those command-lines get executed. Developers store and share their projects on GitHub. Through GitHub, developers can obtain the unique repository url for other to access that certain repository. In addition, users can "fork" a already existing project. "Forking" is when an user create another project based on another project that is already published on a respository. Github encourages further development and progress of projects. After an indiviudal finished the contribution to the "forked" project, he or she is able to release the new and improved project as a new repository. On GitHub, developers can decide whether to release their repository as private or public. If the repository is public, it is a great social networking site. Other developers can contribute and collaborate their own knowledge into the existing project. One's public repository also acts as an resume that shows the technology world what great ideas you have accomplished or currently working on. 
 
 In this particular essay project, I utilized GitHub as my main sourse to push my repository to share with the GSI and Professor. Through GitHub the graders are able to see the commit history and stage of changes that I made as my project progresses. Just a fun fact: the GitHub mascot is [Octocat](https://octodex.github.com/); it is pretty adorable.
@@ -24,6 +25,7 @@ The image states all, pandoc is the universial ducment converter. Pandoc is a un
 
 ####Markdown
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/markdown-logo.png)
+
 You are indeed reading a Markdown document right now! A markdown is a common syntax or a way to style display plain text. Markdown files use the extension of .md or .markdown; markdown files can be written and edit in any basic text editor. Individual can control and formart the document using **bold** or _italic_ font using non-alphabetic characters #, _ respectively. Using Markdown, users can link or add images, create tables, make lists, and make different size headers. Markdown is just like a simple word processor that fashion document to have more a professional and polished look. Markdown allows individuals to produce agreeable reproducible output, since the tool is so easily learn and the product is simple to comprehend. 
 
 
@@ -39,9 +41,9 @@ The challenging parts of the project are during the beginning stages when we had
 ####Time Consuming Parts:
 Monday, September 26th, lab section cleared up alot of misunderstanding that I had about the project. The GSI, Sindhuja, was very helpful. She answered alot of the student's questions about the setup of the project, which we had to do as lab. Another student in the class also help me with the project. I was quite confused before starting the project and he explained to the basic understanding of the project paper.  
 
-###Total Time:
+####Total Time:
 The project took in total about 6 hours. The first part of the project took the longest. Actually understanding how to set up and format the repository took quite some time. The lab section on Monday September 26th helped alot. Even though lab 3 taught us how to set up git through a tutorial, it still took some research and practice to fully execute it on the project repository. 
----
+
 
 
 

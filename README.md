@@ -1,14 +1,14 @@
 #**University of California, Berkeley**
 ##Stat159 Fall 2016 Project 1: Individual Paper
 
-##Stacy Chang
+##Author: Stacy Chang
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/stat159-logo.png)
 
 The repository contains the first project for Stacy Chang's Fall 2016 Statistics 159 class: Reproducible and Collaborative Statistical Data Science. 
 
 ####Structure:
-* The repository includes an image directory and paper directory/
+* The repository includes an image directory and paper directory.
     * image directory contains five images, which are logos for each tool discussed in the paper
     * paper directory contains the four markdown files (abstract, introduction, discussion, conclusion) that were used to create the final paper. Also includes the final markdown and .html paper files. 
 * The final paper discusses about the tools that were used to create this paper: Git, GitHub, Markdown, Make, and Pandoc. It also discusses the process the author went through to produce the final product. 

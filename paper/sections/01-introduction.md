@@ -1,4 +1,4 @@
-##Introduction
+###Introduction
 
 Reproducible and Collaborative Statistical Data Science or Stat 159 taught by Professor Gaston Sanchez is a class where student are truly learn how to utilize useful tools, such as Markdown and Git, in order to produce accurate and appropraite reproducible answers to scientific questions. Reproducibility is one of the most important key in scientific finding; it means that one is able to reproduce or regenerate one published scientific finding through similar framework. However, there are alot of problems when it comes to reproducible research. What the publisher published on paper might not be the everything that happened throughout the process of the study. However, with advanced modern technology individuals are now able to collaborate with others remotely and audience can view and understand the framework  more elaboratly. 
 

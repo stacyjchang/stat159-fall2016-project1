@@ -3,8 +3,20 @@ Stat159 Fall 2016 Project 1: Individual Paper
 
 ### Abstract
 
-The first project of the semester, the students are assigned to write a paper on writing a paper. The overarching goal of this project is to teach the students to fully learn how to utilize the useful computing tools we learned in class. Tools such as this markdown file, bash, git, github, Make, pandoc, etc.The paper is divided into four different sections, which is a typical model of research papers: abstract, introduction, discussion and conclusion. This project paper focuses on and explains, in detail, each individual tool that was needed to complete this assignment. Additionally, the paper discusses the pros and cons of the tools featured and the process of completing this project from the author's point of view. Professor Sanchez predrafted the questions that the students are expected to answer through this project paper. After completing the assignment, students will have a better understanding of the tools as well as writing an research paper.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The first project of the semester, the students are assigned to write a
+paper on writing a paper. The overarching goal of this project is to
+teach the students to fully learn how to utilize the useful computing
+tools we learned in class. Tools such as this markdown file, bash, git,
+github, Make, pandoc, etc.The paper is divided into four different
+sections, which is a typical model of research papers: abstract,
+introduction, discussion and conclusion. This project paper focuses on
+and explains, in detail, each individual tool that was needed to
+complete this assignment. Additionally, the paper discusses the pros and
+cons of the tools featured and the process of completing this project
+from the author's point of view. Professor Sanchez predrafted the
+questions that the students are expected to answer through this project
+paper. After completing the assignment, students will have a better
+understanding of the tools as well as writing an research paper.
 
 ### Introduction
 
@@ -22,8 +34,16 @@ modern technology individuals are now able to collaborate with others
 remotely and audience can view and understand the framework more
 elaboratly.
 
-The goal of this paper project is to teach students how to correctly produce a step by step reproducible research paper. The first project of the semester introduced the various programs that are essential to create such analysis. So far students have learned to use Markdown file, shell command lines, Git, GitHub, pandoc, and Makefile individually. This project requires students to apply what they learned about each tool and utilize them all together to create the finish product. The final paper contains four parts: abstract, this introduction, discussion on the different tools and the process of writing this paper, and conclusion.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The goal of this paper project is to teach students how to correctly
+produce a step by step reproducible research paper. The first project of
+the semester introduced the various programs that are essential to
+create such analysis. So far students have learned to use Markdown file,
+shell command lines, Git, GitHub, pandoc, and Makefile individually.
+This project requires students to apply what they learned about each
+tool and utilize them all together to create the finish product. The
+final paper contains four parts: abstract, this introduction, discussion
+on the different tools and the process of writing this paper, and
+conclusion.
 
 ### Discussion
 
@@ -72,6 +92,7 @@ system to this day.
 #### GitHub
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/github-logo.png)
+
 GitHub and Git are partners in crime; they work together as the perfect
 open source version control system medium. As Git is the storage room,
 GitHub is the shelve in the room that actually stores and display the
@@ -117,6 +138,7 @@ markdown file to an .html file by pandoc.
 #### Markdown
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/markdown-logo.png)
+
 You are indeed reading a Markdown document right now! A markdown is a
 common syntax or a way to style display plain text. Markdown files use
 the extension of .md or .markdown; markdown files can be written and
@@ -163,13 +185,16 @@ which we had to do as lab. Another student in the class also help me
 with the project. I was quite confused before starting the project and
 he explained to the basic understanding of the project paper.
 
-### Total Time:
+#### Total Time:
 
-The project took in total about 6 hours. The first part of the project took the longest. Actually understanding how to set up and format the repository took quite some time. The lab section on Monday September 26th helped alot. Even though lab 3 taught us how to set up git through a tutorial, it still took some research and practice to fully execute it on the project repository.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The project took in total about 6 hours. The first part of the project
+took the longest. Actually understanding how to set up and format the
+repository took quite some time. The lab section on Monday September
+26th helped alot. Even though lab 3 taught us how to set up git through
+a tutorial, it still took some research and practice to fully execute it
+on the project repository.
 
-Conclusion
-----------
+### Conclusion
 
 Overall, the project was the perfect learning assignment for students to
 get more familiar with the tools that are discussed in class as well as

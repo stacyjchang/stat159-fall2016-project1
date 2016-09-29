@@ -1,14 +1,12 @@
-\#Stat159 Fall 2016 Project 1: Individual Paper
------------------------------------------------
+Stat159 Fall 2016 Project 1: Individual Paper
+---------------------------------------------
 
-Abstract
---------
+### Abstract
 
 The first project of the semester, the students are assigned to write a paper on writing a paper. The overarching goal of this project is to teach the students to fully learn how to utilize the useful computing tools we learned in class. Tools such as this markdown file, bash, git, github, Make, pandoc, etc.The paper is divided into four different sections, which is a typical model of research papers: abstract, introduction, discussion and conclusion. This project paper focuses on and explains, in detail, each individual tool that was needed to complete this assignment. Additionally, the paper discusses the pros and cons of the tools featured and the process of completing this project from the author's point of view. Professor Sanchez predrafted the questions that the students are expected to answer through this project paper. After completing the assignment, students will have a better understanding of the tools as well as writing an research paper.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Introduction
-------------
+### Introduction
 
 Reproducible and Collaborative Statistical Data Science or Stat 159
 taught by Professor Gaston Sanchez is a class where student are truly
@@ -27,10 +25,9 @@ elaboratly.
 The goal of this paper project is to teach students how to correctly produce a step by step reproducible research paper. The first project of the semester introduced the various programs that are essential to create such analysis. So far students have learned to use Markdown file, shell command lines, Git, GitHub, pandoc, and Makefile individually. This project requires students to apply what they learned about each tool and utilize them all together to create the finish product. The final paper contains four parts: abstract, this introduction, discussion on the different tools and the process of writing this paper, and conclusion.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Discussion
-----------
+### Discussion
 
-### Makefile
+#### Makefile
 
 Make is Unix program that is designed to compute Makefiles. A Makefile,
 usually a text file and named "Makefile", is a file that contains shell
@@ -50,7 +47,7 @@ errors. However, Makefile provide the convenience to have all command
 line that are needed to make the combined markdown output and the .html
 output into one file.
 
-### Git
+#### Git
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/git-logo.png)
 
@@ -72,7 +69,7 @@ same project simultaneously and later on integrate all parts of the
 project together. Git is truly one of most powerful version control
 system to this day.
 
-### GitHub
+#### GitHub
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/github-logo.png)
 GitHub and Git are partners in crime; they work together as the perfect
@@ -103,7 +100,7 @@ the graders are able to see the commit history and stage of changes that
 I made as my project progresses. Just a fun fact: the GitHub mascot is
 [Octocat](https://octodex.github.com/); it is pretty adorable.
 
-### Pandoc
+#### Pandoc
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/pandoc-logo.png)
 
@@ -117,7 +114,7 @@ is for all type of different users or readers to be able to view and
 share the files. As a matter of fact, this paper is converted from a
 markdown file to an .html file by pandoc.
 
-### Markdown
+#### Markdown
 
 ![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/markdown-logo.png)
 You are indeed reading a Markdown document right now! A markdown is a
@@ -132,7 +129,7 @@ professional and polished look. Markdown allows individuals to produce
 agreeable reproducible output, since the tool is so easily learn and the
 product is simple to comprehend.
 
-### Resources:
+#### Resources:
 
 The tutorials from previous lab sections, [Professor Sanchez's lab
 repository](https://github.com/ucb-stat159/stat159-fall-2016/tree/master/labs),
@@ -148,25 +145,23 @@ websites on each tools that the project discusses about. In addition,
 Sindhuja answered alot of my questions during lab section and alot of
 classmates helped each other during section.
 
-### Easy Parts:
+#### Easy Parts:
 
-The easy parts of the project is **8. What were the challenging parts?**
-The challenging parts of the project are during the beginning stages
-when we had to set the structure and foundation of the project.
-Researching and fully understanding each different tools was quite
-challenging. It took a while for me, at least, to learn how to execute
-each tool properly. **9. What things you were stuck with?**
+The easy parts of the project is What were the challenging parts?** The
+challenging parts of the project are during the beginning stages when we
+had to set the structure and foundation of the project. Researching and
+fully understanding each different tools was quite challenging. It took
+a while for me, at least, to learn how to execute each tool properly.
+**9. What things you were stuck with?\*\*
 
-### Time Consuming Parts:
+#### Time Consuming Parts:
 
-**11. Did you work with and/or get help from someone else? If yes, in
-what manner?** Monday, September 26th, lab section cleared up alot of
-misunderstanding that I had about the project. The GSI, Sindhuja, was
-very helpful. She answered alot of the student's questions about the
-setup of the project, which we had to do as lab. Another student in the
-class also help me with the project. I was quite confused before
-starting the project and he explained to the basic understanding of the
-project paper.
+Monday, September 26th, lab section cleared up alot of misunderstanding
+that I had about the project. The GSI, Sindhuja, was very helpful. She
+answered alot of the student's questions about the setup of the project,
+which we had to do as lab. Another student in the class also help me
+with the project. I was quite confused before starting the project and
+he explained to the basic understanding of the project paper.
 
 ### Total Time:
 
